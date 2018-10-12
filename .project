@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>jacoco-test</name>
-	<comment>Project jacoco-test created by Buildship.</comment>
+	<name>CodeQualityTest</name>
+	<comment>Project CodeQualityTest created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
